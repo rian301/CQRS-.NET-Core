@@ -1,0 +1,9 @@
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.deps.json
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.dll
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.pdb
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.dll
+C:\Projetos\Pessoal\Group\Group.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Adm.Infra.CrossCutting.Identity.pdb

@@ -1,0 +1,8 @@
+C:\Projetos\Pessoal\Group\Group.Domain\bin\Debug\netcoreapp3.1\Adm.Domain.deps.json
+C:\Projetos\Pessoal\Group\Group.Domain\bin\Debug\netcoreapp3.1\Adm.Domain.dll
+C:\Projetos\Pessoal\Group\Group.Domain\bin\Debug\netcoreapp3.1\Adm.Domain.pdb
+C:\Projetos\Pessoal\Group\Group.Domain\obj\Debug\netcoreapp3.1\Adm.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\Group\Group.Domain\obj\Debug\netcoreapp3.1\Adm.Domain.AssemblyInfo.cs
+C:\Projetos\Pessoal\Group\Group.Domain\obj\Debug\netcoreapp3.1\Adm.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\Group\Group.Domain\obj\Debug\netcoreapp3.1\Adm.Domain.dll
+C:\Projetos\Pessoal\Group\Group.Domain\obj\Debug\netcoreapp3.1\Adm.Domain.pdb

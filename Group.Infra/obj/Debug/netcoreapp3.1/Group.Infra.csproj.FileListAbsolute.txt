@@ -1,0 +1,17 @@
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Domain.dll
+C:\Projetos\Pessoal\Group\Group.Infra\obj\Debug\netcoreapp3.1\Group.Infra.csprojAssemblyReference.cache
+C:\Projetos\Pessoal\Group\Group.Infra\obj\Debug\netcoreapp3.1\Group.Infra.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\Group\Group.Infra\obj\Debug\netcoreapp3.1\Group.Infra.AssemblyInfo.cs
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Infra.deps.json
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Infra.runtimeconfig.json
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Infra.runtimeconfig.dev.json
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Infra.dll
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Infra.pdb
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Domain.pdb
+C:\Projetos\Pessoal\Group\Group.Infra\obj\Debug\netcoreapp3.1\Group.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\Group\Group.Infra\obj\Debug\netcoreapp3.1\Group.Infra.csproj.CopyComplete
+C:\Projetos\Pessoal\Group\Group.Infra\obj\Debug\netcoreapp3.1\Group.Infra.dll
+C:\Projetos\Pessoal\Group\Group.Infra\obj\Debug\netcoreapp3.1\Group.Infra.pdb
+C:\Projetos\Pessoal\Group\Group.Infra\obj\Debug\netcoreapp3.1\Group.Infra.genruntimeconfig.cache
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Infra.CrossCutting.Identity.dll
+C:\Projetos\Pessoal\Group\Group.Infra\bin\Debug\netcoreapp3.1\Group.Infra.CrossCutting.Identity.pdb

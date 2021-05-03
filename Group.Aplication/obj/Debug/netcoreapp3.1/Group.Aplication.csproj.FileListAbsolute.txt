@@ -1,0 +1,9 @@
+C:\Projetos\Pessoal\Group\Group.Aplication\bin\Debug\netcoreapp3.1\Group.Aplication.deps.json
+C:\Projetos\Pessoal\Group\Group.Aplication\bin\Debug\netcoreapp3.1\Group.Aplication.dll
+C:\Projetos\Pessoal\Group\Group.Aplication\bin\Debug\netcoreapp3.1\Group.Aplication.pdb
+C:\Projetos\Pessoal\Group\Group.Aplication\obj\Debug\netcoreapp3.1\Group.Aplication.csprojAssemblyReference.cache
+C:\Projetos\Pessoal\Group\Group.Aplication\obj\Debug\netcoreapp3.1\Group.Aplication.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\Group\Group.Aplication\obj\Debug\netcoreapp3.1\Group.Aplication.AssemblyInfo.cs
+C:\Projetos\Pessoal\Group\Group.Aplication\obj\Debug\netcoreapp3.1\Group.Aplication.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\Group\Group.Aplication\obj\Debug\netcoreapp3.1\Group.Aplication.dll
+C:\Projetos\Pessoal\Group\Group.Aplication\obj\Debug\netcoreapp3.1\Group.Aplication.pdb
